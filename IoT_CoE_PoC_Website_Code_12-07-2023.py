@@ -3,7 +3,6 @@ from streamlit_option_menu import option_menu
 import pandas as pd
 import numpy as np
 import cv2
-import mysql.connector
 from datetime import datetime
 
 import time
