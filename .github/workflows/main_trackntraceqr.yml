@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'TrackNTraceQR'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F0EE2C94DCFF4493A951E889EAC06AD1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E857108243684FD3ADB5771E0CD8856A }}
